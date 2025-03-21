@@ -39,3 +39,6 @@ The core idea is to demonstrate how a multimodal RAG pipeline can:
 
 ```bash
 pip install langchain openai faiss-cpu pillow matplotlib pandas
+pip install langchain langchain-openai langchain_openai langchain-community langchain-groq
+pip install chromadb tiktoken pillow lxml unstructured[all-docs] python_dotenv ipykernel
+
